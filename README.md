@@ -11,4 +11,5 @@ How to get started,
 6. Run python manage.py migrate
 7. Run python manage.py createsuperuser
 8. After creating superuser. Go to /admin section and add artist, song and other details.
-9. After that run python manage.py runserver 
+9. Example thubnail and song were available in media folder
+10. After that run python manage.py runserver 
